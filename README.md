@@ -1,8 +1,9 @@
 
 W analizie wykorzystano zbiór Sleep Health and Lifestyle Dataset, który zawiera dane ankietowe dotyczące stylu życia, zdrowia snu, poziomu stresu, aktywności fizycznej oraz występowania zaburzeń snu. Dane obejmują m.in. długość i jakość snu, poziom codziennego stresu, czas aktywności fizycznej, występowanie takich zaburzeń jak bezsenność czy bezdech senny, a także informacje demograficzne.
 
-🔍 Kluczowe wnioski:
+ Kluczowe wnioski:
 Stres a jakość snu
+
 Dane pokazują wyraźny negatywny związek między poziomem stresu a jakością snu.
 
 Osoby mniej zestresowane (poziom stresu 3–4) mają średnio o 3 punkty wyższą ocenę snu niż osoby silnie zestresowane (poziom 7–8).
